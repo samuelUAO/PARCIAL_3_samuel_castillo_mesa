@@ -19,7 +19,7 @@ public class JugadorTest {
     }
 
     @Test
-    public void probarRecibirDanio() {
+    public void verificarQueElDanioNegativoNoAfecteLosLP() {
         Jugador jugador = new Jugador("Samuel", "001");
 
         jugador.recibirDanio(2000);
