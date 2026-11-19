@@ -19,7 +19,7 @@ public class JugadorTest {
     }
 
     @Test
-    public void verificarQueElDanioNegativoNoAfecteLosLP() {
+    public void probarRecibirDanio() {
         Jugador jugador = new Jugador("Samuel", "001");
 
         jugador.recibirDanio(2000);
@@ -44,5 +44,12 @@ public class JugadorTest {
         jugador.recibirDanio(-500);
 
         assertEquals(8000, jugador.getPuntosVida());
+    }
+
+    @Test
+    public void probarJugadorVivo() {
+        Jugador jugador = new Jugador("Samuel", "001");
+
+        assertTrue(jugador.estaVivo());
     }
 }
