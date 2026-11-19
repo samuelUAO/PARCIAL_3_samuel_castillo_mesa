@@ -43,7 +43,7 @@ public class Combate {
         if (defensor == null) {
 
             if (!jugadorDefensor.getMonstruos().isEmpty()) {
-                return "No puedes atacar directamente: el rival tiene monstruos.";
+                return "Necesitas derrotar a los monstruos enemigos para atacar directo.";
             }
 
             ultimoDanio = atacante.getAtaque();
