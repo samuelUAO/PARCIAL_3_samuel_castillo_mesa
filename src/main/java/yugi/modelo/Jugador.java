@@ -71,3 +71,4 @@ public class Jugador extends Persona {
         return mostrarDatos();
     }
 }
+// Representa los datos y características de un monstruo.
