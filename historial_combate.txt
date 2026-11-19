@@ -1,0 +1,17 @@
+Turno 1 | Atacante: Mago Oscuro | Defensor: Guerrero | Daño: 700 | Resultado: El monstruo defensor fue destruido. Jugador 2 pierde 700 LP.
+Turno 2 | Atacante: Mago Oscuro | Defensor: Dragon Rojo | Daño: 300 | Resultado: El monstruo atacante fue destruido. Jugador 1 pierde 300 LP.
+Turno 1 | Atacante: Dragon Blanco | Defensor: Guerrero | Daño: 1200 | Resultado: El monstruo defensor fue destruido. Jugador 2 pierde 1200 LP.
+Turno 2 | Atacante: Mago Oscuro | Defensor: Dragon Rojo | Daño: 300 | Resultado: El monstruo atacante fue destruido. Jugador 1 pierde 300 LP.
+Turno 3 | Atacante: Dragon Blanco | Defensor: Dragon Rojo | Daño: 200 | Resultado: El monstruo defensor fue destruido. Jugador 2 pierde 200 LP.
+Turno 4 | Atacante: Dragon Blanco | Defensor: Ataque directo | Daño: 3000 | Resultado: Ataque directo. Jugador 2 pierde 3000 LP.
+Turno 1 | Atacante: Dragon Blanco | Defensor: Dragon Rojo | Daño: 200 | Resultado: El monstruo defensor fue destruido. Jugador 2 pierde 200 LP.
+Turno 2 | Atacante: Dragon Blanco | Defensor: Guerrero | Daño: 1200 | Resultado: El monstruo defensor fue destruido. Jugador 2 pierde 1200 LP.
+Turno 3 | Atacante: Dragon Blanco | Defensor: Ataque directo | Daño: 3000 | Resultado: Ataque directo. Jugador 2 pierde 3000 LP.
+Turno 4 | Atacante: Dragon Blanco | Defensor: Ataque directo | Daño: 3000 | Resultado: Ataque directo. Jugador 2 pierde 3000 LP.
+Turno 5 | Atacante: Dragon Blanco | Defensor: Ataque directo | Daño: 3000 | Resultado: Ataque directo. Jugador 2 pierde 3000 LP.
+Turno 1 | Atacante: Dragon Blanco | Defensor: Dragon Rojo | Daño: 200 | Resultado: El monstruo defensor fue destruido. Jugador 2 pierde 200 LP.
+Turno 2 | Atacante: Dragon Blanco | Defensor: Guerrero | Daño: 1200 | Resultado: El monstruo defensor fue destruido. Jugador 2 pierde 1200 LP.
+Turno 3 | Atacante: Dragon Blanco | Defensor: Ataque directo | Daño: 3000 | Resultado: Ataque directo. Jugador 2 pierde 3000 LP.
+Turno 4 | Atacante: Dragon Blanco | Defensor: Ataque directo | Daño: 3000 | Resultado: Ataque directo. Jugador 2 pierde 3000 LP.
+Turno 5 | Atacante: Dragon Blanco | Defensor: Ataque directo | Daño: 3000 | Resultado: Ataque directo. Jugador 2 pierde 3000 LP.
+Turno 1 | Atacante: Mago Oscuro | Defensor: Dragon Rojo | Daño: 300 | Resultado: El monstruo atacante fue destruido. Jugador 1 pierde 300 LP.
