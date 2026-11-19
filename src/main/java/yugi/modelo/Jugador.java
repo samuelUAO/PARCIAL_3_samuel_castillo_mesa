@@ -72,3 +72,4 @@ public class Jugador extends Persona {
     }
 }
 // Representa los datos y características de un monstruo.
+// Verifica si el jugador todavía tiene puntos de vida.
